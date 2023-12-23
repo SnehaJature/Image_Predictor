@@ -8,9 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-![alt text](https://github.com/SnehaJature/Image_Predictor/blob/main/Screenshot 2023-12-23 at 4.30.44 PM.png?raw=true)
-
-
 
 ## Expanding the ESLint configuration
 
